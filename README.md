@@ -12,13 +12,9 @@ The purpose and goal of the modifications:
 1. Clone this repo.
 2. `cd` to cloned repo.
 3. Copy `.env.example` to `.env` and add your API key for OpenRouter.
-
-
-`python -m venv .venv`
-
-`source .venv/bin/activate`
-
-`pip install -r requirements.txt`
+4. `python -m venv .venv`
+5. `source .venv/bin/activate`
+6. `pip install -r requirements.txt`
 
 Run the agent: python app.py
 
